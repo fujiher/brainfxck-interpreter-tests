@@ -1,0 +1,1 @@
+[+>]+> ; dive into a loop with cur-pos being 0

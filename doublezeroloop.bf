@@ -1,0 +1,1 @@
+[[]+>] ; dive into a double loop with cur-pos being 0
